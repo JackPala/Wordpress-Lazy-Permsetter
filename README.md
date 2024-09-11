@@ -2,6 +2,8 @@
 
 Quickly set proper permissions and file ownership of a Wordpress instance in 5 seconds or less.
 
+<img src="https://github.com/user-attachments/assets/79b18cf1-23ee-4790-af78-293abd78ed28" width="500" alt="ea9a1a0c-9808-4c66-81f7-e13b7e06bbfb">
+
 ## What does it do?
 1. It asks you what Linux directory your wordpress is
 2. It asks you what user your webserver or PHP-FPM is
